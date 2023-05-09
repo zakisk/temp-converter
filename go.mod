@@ -1,3 +1,3 @@
-module github.com/zakisk/tempconverter
+module github.com/zakisk/temp-converter
 
 go 1.20
